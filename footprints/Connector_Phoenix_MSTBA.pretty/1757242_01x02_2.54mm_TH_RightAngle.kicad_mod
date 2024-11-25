@@ -1,0 +1,249 @@
+(footprint "1757242_01x02_2.54mm_TH_RightAngle"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "1757242")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at -2 -4 0)
+		(layer "F.SilkS")
+		(uuid "7b213f5f-ed3a-4285-9bc6-ff14a9b8fbc4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "1757242_01x02_2.54mm_TH_RightAngle"
+		(at 2 4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d48bb94a-a1b9-42d5-a1f9-249249bcfb08")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bcd85fd-3541-49aa-96fe-5050148cdb53")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1da014a2-144c-4855-8c4d-d66dbedf8f67")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43de0704-98a3-4c91-8312-8f76f82cadb7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.54 -2)
+		(end 8.62 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1279cb3e-5475-4a6a-9972-e959cfc4dfd8")
+	)
+	(fp_line
+		(start -3.54 10)
+		(end -3.54 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "63db82ac-6f29-4220-b16e-cbbc0b140fd0")
+	)
+	(fp_line
+		(start 8.62 -2)
+		(end 8.62 10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "802ae1d5-2347-4424-8d46-0ee49d072f66")
+	)
+	(fp_line
+		(start 8.62 10)
+		(end -3.54 10)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c6f27137-09b7-4884-bdd9-c4f451d67957")
+	)
+	(fp_circle
+		(center -4.35 0)
+		(end -4.35 0.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "5b241276-0a89-4b13-a3fb-5b34e6a269ca")
+	)
+	(fp_line
+		(start -5.25 -3)
+		(end 9.62 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "73dc9f6d-72d7-4489-90e4-6e292ebf2a65")
+	)
+	(fp_line
+		(start -5.25 11)
+		(end -5.25 -3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea8915f7-0c39-4635-9888-33828bbc1b12")
+	)
+	(fp_line
+		(start 9.62 -3)
+		(end 9.62 11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "824c1904-2734-4c53-8be0-e7561dca1db3")
+	)
+	(fp_line
+		(start 9.62 11)
+		(end -5.25 11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e8be0e1a-f7ac-4a56-9ceb-1b450556efdb")
+	)
+	(fp_line
+		(start -3.54 -2)
+		(end 8.62 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "893ba176-2442-485e-bc45-de8acb7b9aa9")
+	)
+	(fp_line
+		(start -3.54 10)
+		(end -3.54 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0312482d-331c-46a2-be5f-6011a339283c")
+	)
+	(fp_line
+		(start 8.62 -2)
+		(end 8.62 10)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "61b47fe5-a494-4134-acd9-b0839e69366e")
+	)
+	(fp_line
+		(start 8.62 10)
+		(end -3.54 10)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95ec6d05-e0df-4887-979d-7bd431d50384")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4.5 6.5 0)
+		(layer "F.Fab")
+		(uuid "a287e55f-a71c-4fe1-ad91-0c029e226c1c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e00a7ce6-fe99-4fad-ad57-f7c058d513b1")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dde4f2ec-287d-4007-b27e-66b5d518ecc5")
+	)
+	(model "C:/Users/teichmann/Documents/KiCad/8.0/footprints/Connector_Phoenix_MSTBA.pretty/3D/1757242.stp"
+		(offset
+			(xyz 2.499999962 -3.99999994 4.590000084)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+	(model "C:/Users/teichmann/Documents/KiCad/8.0/footprints/Connector_Phoenix_MSTBA.pretty/3D/1962600.stp"
+		(opacity 0.7000)
+		(offset
+			(xyz -2.5 -25 -2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
